@@ -1,0 +1,5 @@
+---------------------------------------------
+You used the key and opened the chest. You carefully look inside it.
+The bottom is shrouded in a mist that resembles clouds.
+Inside you discover a piece of paper and a dagger.
+What do you want to do?

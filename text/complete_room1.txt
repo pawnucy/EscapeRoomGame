@@ -1,0 +1,7 @@
+---------------------------------------------
+Congratulations!
+You have solved the mystery and got out of the first room.
+If it wasn't a short project you probably would have had more adventures waiting for you,
+and so we have to leave the program now, unfortunately!
+
+Thank you for playing the game!

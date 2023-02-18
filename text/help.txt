@@ -1,0 +1,10 @@
+---------------------------------------------
+Available commands to enter:
+- help - displays again the available commands
+- describe - describes the current room
+- take ITEM - you pick up an item and put it in your inventory
+- use ITEM - you use the item
+- inventory - opens your inventory
+- go PLACE - you go to the selected place in the room, these places are located in the room description
+- quit game - closes the program
+---------------------------------------------

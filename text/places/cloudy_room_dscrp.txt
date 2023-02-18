@@ -1,0 +1,10 @@
+---------------------------------------------
+The room is shrouded in a gray fog, and there is a thick, sweet smell in the air.
+You look around. Here's what you see:
+The room has a window filled with bars, a large and old chest, and a solid oak desk.
+The exit from the room is blocked by a large steel door.
+
+Places you can go: chest, window, door, desk.
+
+Use the "go" command, such as "go window."
+For more commands use "help".

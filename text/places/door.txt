@@ -1,0 +1,5 @@
+---------------------------------------------
+You stand in front of a large steel door.
+Your attention is caught by a large padlock opened by a combination of four numbers.
+You can guess the code that will open it or look for clues in the room that may help you.
+Try to 'use padlock' to enter the combination.
